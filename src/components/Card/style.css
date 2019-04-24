@@ -1,0 +1,12 @@
+.chi-card {
+    text-align: center;
+    color: white;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+}
+  
+.chi-card:hover {
+    cursor: pointer;
+    border: 2px solid orangered;
+}
