@@ -5,4 +5,4 @@ GitHub: https://github.com/Travo100/react-extended-session
 
 Deployed Site: https://chihuahua-clicker-april-2019.herokuapp.com/
 
-Video: <processing>
+Video: https://s3-us-west-2.amazonaws.com/extended-sessions-cbc/february-2019-ft/19-react/lesson.mp4
