@@ -7,7 +7,7 @@ const mongoose = require("mongoose");
 const db = require("./models");
 
 mongoose
-  .connect(process.env.MONGO_URL || "mongodb://localhost/chihuahuaDB", {useNewUrlParser: true })
+  .connect(process.env.MONGODB_URI || "mongodb://localhost/chihuahuaDB", {useNewUrlParser: true })
   .then(() => console.log("Database Connected!"))
   .catch(err => console.log(err));
 
